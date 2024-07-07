@@ -7,7 +7,6 @@ export class Games {
     this.getData("mmorpg");
     this.ui = new Ui();
     this.detail = new Details()
-
     // Catch Data When Click NavBar Links
     const categ = Array.from(document.querySelectorAll(".nav-link"));
     for (let i = 0; i < categ.length; i++) {

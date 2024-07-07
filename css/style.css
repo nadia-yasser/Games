@@ -76,7 +76,7 @@ nav h1 {
   font-size: 14px;
   font-weight: 400;
 }
-.game-details button:hover {
+.game-details a:hover {
   background-color: #ffc107;
 }
 /* Loading style from https://cssloaders.github.io/ Website */
